@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/garima_portfolio/static/css/main.75536f00.css",
+    "main.js": "/garima_portfolio/static/js/main.47df0320.js",
+    "static/js/787.5fdd1116.chunk.js": "/garima_portfolio/static/js/787.5fdd1116.chunk.js",
+    "static/media/color-sharp2.png": "/garima_portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/ds.png": "/garima_portfolio/static/media/ds.faf780d7d3725d22ed49.png",
+    "static/media/coriI.png": "/garima_portfolio/static/media/coriI.34da8d4a7f38846ffc77.png",
+    "static/media/4.jpg": "/garima_portfolio/static/media/4.c45c9d6c1f03791cea36.jpg",
+    "static/media/mee.png": "/garima_portfolio/static/media/mee.df76b051e2744b9f9e55.png",
+    "static/media/5.jpg": "/garima_portfolio/static/media/5.6cf78e62df6b35674a13.jpg",
+    "static/media/1.jpg": "/garima_portfolio/static/media/1.22e23971ea8dbc16fd49.jpg",
+    "static/media/6.jpg": "/garima_portfolio/static/media/6.84569ed072ba64f6d8f2.jpg",
+    "static/media/acc.png": "/garima_portfolio/static/media/acc.b949c6c66b0f1facdc6b.png",
+    "static/media/2.jpg": "/garima_portfolio/static/media/2.4692738ea780a9e8462c.jpg",
+    "static/media/3.jpg": "/garima_portfolio/static/media/3.ba28b9db57a12a7232d6.jpg",
+    "static/media/7.png": "/garima_portfolio/static/media/7.e7fe1970a87a554a9ef9.png",
+    "static/media/dso.png": "/garima_portfolio/static/media/dso.8902fae5c1846256a7b1.png",
+    "static/media/project-img1.png": "/garima_portfolio/static/media/project-img1.d593db3f12901bc685c2.png",
+    "static/media/Nvidia_AI_Spe_Cer.jpg": "/garima_portfolio/static/media/Nvidia_AI_Spe_Cer.b4d3e10ee771f48a9f9f.jpg",
+    "static/media/google.jpg": "/garima_portfolio/static/media/google.7dcefd18dea8a3ca4316.jpg",
+    "static/media/project-img2.png": "/garima_portfolio/static/media/project-img2.2e52097c417f9f1134b0.png",
+    "static/media/project-img3.png": "/garima_portfolio/static/media/project-img3.675b30d2f975a1bc1d09.png",
+    "static/media/shape-1.png": "/garima_portfolio/static/media/shape-1.25e4d49076a6fd169b83.png",
+    "static/media/about.png": "/garima_portfolio/static/media/about.a1a11e11f9eaf1d65f29.png",
+    "static/media/line1.png": "/garima_portfolio/static/media/line1.b7617b45256210d2ab6e.png",
+    "static/media/logo.svg": "/garima_portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/garima_portfolio/index.html",
+    "main.75536f00.css.map": "/garima_portfolio/static/css/main.75536f00.css.map",
+    "main.47df0320.js.map": "/garima_portfolio/static/js/main.47df0320.js.map",
+    "787.5fdd1116.chunk.js.map": "/garima_portfolio/static/js/787.5fdd1116.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75536f00.css",
+    "static/js/main.47df0320.js"
+  ]
+}
